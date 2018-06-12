@@ -1,0 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  font-family: avenir next,avenir,sans-serif;
+}
+
+.link:focus {
+  outline: none;
+}
+
+.page-header {
+    background-image: url('/assets/images/Timor-Pride.jpg');
+    background-size: cover;
+}
+
+.main-content h1 {
+  color: #5e2ca5;
+}
+
+.page-header {
+  text-shadow: 1px 1px 2px black;
+}

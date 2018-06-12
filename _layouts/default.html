@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+
+    {% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="{{ '/assets/css/tachyons.min.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <header class="bg-purple fixed w-100 ph3 pv3 pv4-ns ph4-m ph5-l">
+      <nav class="f6 fw6 ttu tracked">
+        <a class="link dim near-white dib mr3" href="#description" title="Description">Description</a>
+        <a class="link dim near-white dib mr3" href="#logistics" title="Logistics">Logistics</a>
+        <a class="link dim near-white dib" href="#contact" title="Contact">Contact</a>
+      </nav>
+    </header>
+    <section class="page-header">
+      <nav class="pa3 pa4-ns">
+        <span class="near-white b f1 f-headline-ns tracked-light tc db mb3 mb4-ns">{{ site.title | default: site.github.repository_name }}</span>
+        <span class="near-white b f3 tc db mb3 mb4-ns"> 20 July 2018 </span>
+        <span class="near-white b f4 tc db mb3 mb4-ns"> {{ site.description }} </span>
+      </nav>
+    </section>
+
+    <section class="main-content">
+      {{ content }}
+      <footer class="site-footer"> </footer>
+    </section>
+
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
+    <script>
+      // smooth scrolling
+      document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener('click', function (e) {
+          e.preventDefault();
+
+          document.querySelector(this.getAttribute('href')).scrollIntoView({
+            behavior: 'smooth'
+          });
+        });
+      });
+    </script>
+  </body>
+</html>
