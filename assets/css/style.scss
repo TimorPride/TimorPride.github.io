@@ -11,6 +11,10 @@ body {
   outline: none;
 }
 
+header {
+  transition: background-color 500ms linear;
+}
+
 .page-header {
     background-image: url('/assets/images/Timor-Pride.jpg');
     background-size: cover;

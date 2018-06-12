@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <header class="bg-purple fixed w-100 ph3 pv3 pv4-ns ph4-m ph5-l">
+    <header class="bg-transparent fixed w-100 ph3 pv3 pv4-ns ph4-m ph5-l">
       <nav class="f6 fw6 ttu tracked">
         <a class="link dim near-white dib mr3" href="#description" title="Description">Description</a>
         <a class="link dim near-white dib mr3" href="#logistics" title="Logistics">Logistics</a>
@@ -19,7 +19,7 @@
     </header>
     <section class="page-header">
       <nav class="pa3 pa4-ns">
-        <span class="near-white b f1 f-headline-ns tracked-light tc db mb3 mb4-ns">{{ site.title | default: site.github.repository_name }}</span>
+        <span class="near-white b f1 f-headline-ns tracked-light tc db mb3 mb4-ns" id="site-title">{{ site.title | default: site.github.repository_name }}</span>
         <span class="near-white b f3 tc db mb3 mb4-ns"> 20 July 2018 </span>
         <span class="near-white b f4 tc db mb3 mb4-ns"> {{ site.description }} </span>
       </nav>
@@ -51,6 +51,17 @@
             behavior: 'smooth'
           });
         });
+      });
+
+      window.addEventListener("scroll", function() {
+        var titleElement = document.getElementById("site-title");
+        if (window.scrollY > (titleElement.offsetTop)) {
+          document.querySelector('header').classList.remove('bg-transparent');
+          document.querySelector('header').classList.add('bg-purple');
+        } else {
+          document.querySelector('header').classList.add('bg-transparent');
+          document.querySelector('header').classList.remove('bg-purple');
+        }
       });
     </script>
   </body>
