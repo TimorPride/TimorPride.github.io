@@ -12,11 +12,11 @@ This year the Hatutan youth group, together with Fundasaun CODIVA, Arco Iris and
 
 | Date                     | Location                         | Activity                                                     |
 | ------------------------ | -------------------------------- | ------------------------------------------------------------ |
-| **Fri, 6 July**         | Dili                             | Workshop on UN  Guidelines on Business and LGBTI.            |
+| **Fri, 6 July**          | Dili                             | Workshop on UN  Guidelines on Business and LGBTI.            |
 | **Mon 16 – Wed 18 July** | Cineplex, Timor-Plaza            | Rainbow theme Movie Marathon.                                |
 | **Thur, 19 July**        | Marie Stopes  International      | Select free service for  community members at MSI Clinic.    |
 | **Fri, 20 July**         | MNEC – SEJD                      | Pride parade on the theme of inclusion, followed by speeches and live  performances. |
-| **Fri, 20 July**        | Sky Bar Restaurant,  Timor Plaza | Pride theme Happy Hour                                       |
+| **Fri, 20 July**         | Sky Bar Restaurant,  Timor Plaza | Pride theme Happy Hour                                       |
 | **Fri, 20 July**         | Casa Música                      | Official after party; fundraising for CODIVA Clinic.         |
 | **Sat, 21 July**         | Dili                             | Organized tour for  international visitors.                  |
 
