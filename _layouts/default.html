@@ -84,10 +84,10 @@
         var titleElement = document.getElementById("site-title");
         if (window.scrollY > (titleElement.offsetTop)) {
           document.querySelector('header').classList.remove('bg-transparent');
-          document.querySelector('header').classList.add('bg-purple');
+          document.querySelector('header').classList.add('bg-purple', 'shadow-3');
         } else {
           document.querySelector('header').classList.add('bg-transparent');
-          document.querySelector('header').classList.remove('bg-purple');
+          document.querySelector('header').classList.remove('bg-purple', 'shadow-3');
         }
       });
     </script>
