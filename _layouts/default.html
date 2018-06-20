@@ -23,6 +23,16 @@
     {% endif %}
   </head>
   <body>
+    <!-- Load Facebook SDK for JavaScript -->
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.0';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
     <header class="bg-transparent fixed w-100 ph3 pv2 pv3-ns ph4-m ph5-l">
       <nav class="f7 f6-ns fw6 ttu tracked flex items-center">
         <img class="dib mw2 mr3" src="/assets/images/pride_logo_small.png" />
