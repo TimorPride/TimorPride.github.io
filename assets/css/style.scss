@@ -16,15 +16,23 @@ header {
 }
 
 .page-header {
-    background-color: white; // until the image loads
-    background-image: url('/assets/images/banner_tinyfied.jpeg');
-    background-size: cover;
+  background-color: white; // until the image loads
+  background-image: url('/assets/images/banner_tinyfied.jpeg');
+  background-size: cover;
+  text-shadow: 1px 1px 2px black;
 }
 
 .main-content h1 {
   color: #5e2ca5;
 }
 
-.page-header {
-  text-shadow: 1px 1px 2px black;
+.main-content p {
+  line-height: 2;
+}
+
+@media screen and (max-width: 30em) {
+  .main-content table th, .main-content table td {
+    padding: 0.25rem 0.5rem;
+    min-width: 6rem;
+  }
 }
