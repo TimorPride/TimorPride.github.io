@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Timor-Leste Pride Parade
+image: /assets/images/pride_logo_no_text.jpg
 ---
 
 # Description
