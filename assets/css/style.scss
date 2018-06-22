@@ -17,9 +17,15 @@ header {
 
 .page-header {
   background-color: white; // until the image loads
-  background-image: url('/assets/images/banner_tinyfied.jpeg');
+  background-image: url('/assets/images/banner-1500.jpeg');
   background-size: cover;
   text-shadow: 1px 1px 2px black;
+}
+
+@media screen and (max-width: 480px) {
+  .page-header {
+    background-image: url('/assets/images/banner-400.jpeg');
+  }
 }
 
 .main-content h1 {
