@@ -27,7 +27,7 @@ This year the Hatutan youth group, together with Fundasaun CODIVA, Arco Iris and
 - facebook: <a href="https://www.facebook.com/HatutanYouth/" target="_blank" rel="noopener">HatutanYouth</a>
 
 ### Want to subscribe to our newsletter?
-<form method="POST" class="newsletter-subscribe" action="https://formspree.io/raphael.merx@gmail.com">
+<form method="POST" class="newsletter-subscribe" action="https://formspree.io/hatutanyouth@gmail.com">
   <input class="w-60" type="email" name="email" placeholder="Your email">
   <button class="dim" type="submit">Subscribe</button>
 </form>
