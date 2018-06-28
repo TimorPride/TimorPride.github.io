@@ -28,7 +28,7 @@ header {
   }
 }
 
-.main-content h1 {
+.main-content h1, .main-content h3 {
   color: #5e2ca5;
 }
 
@@ -40,5 +40,28 @@ header {
   .main-content table th, .main-content table td {
     padding: 0.25rem 0.5rem;
     min-width: 6rem;
+  }
+}
+
+form {
+  input {
+    font-size: 0.8em;
+    padding: 0.7em;
+    transition: all 0.3s ease-in-out;
+    &:focus {
+      outline: none;
+      box-shadow: 0 0 5px 1px #a463f2;
+      border: 1px solid #5e2ca5;
+    }
+  }
+  button {
+    text-transform: uppercase;
+    font-weight: 600;
+    border: 2px solid #5e2ca5;
+    color: #5e2ca5;
+    background: transparent;
+    line-height: 1em;
+    padding: 0.6em 0.9em;
+    transition: box-shadow 0.3s ease-in-out;
   }
 }
