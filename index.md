@@ -24,6 +24,8 @@ This year the Hatutan youth group, together with Fundasaun CODIVA, Arco Iris and
 | Fri, 20 July 23.00          | Casa Música                   | Official after party; fundraising for CODIVA Clinic.         |
 | Sat, 21 July                   | Dili                          | Tour of Dili for international visitors.                     |
 
+Wonder how to get here? Where to stay? **Check out the <a href="https://docs.google.com/document/d/1znBZEzgYE2LhLwEoDoEkBuOFbDEd0PPAxa-RlaIzPJU/edit?usp=sharing" target="_blank" rel="noopener">full logistics notes</a>.**
+
 # Contact
 
 - email: [hatutanyouth@gmail.com](mailto:hatutanyouth@gmail.com)
