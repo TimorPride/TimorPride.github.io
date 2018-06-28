@@ -12,14 +12,17 @@ This year the Hatutan youth group, together with Fundasaun CODIVA, Arco Iris and
 
 # Logistics
 
-| Date                     | Location                         | Activity                                                     |
-| ------------------------ | -------------------------------- | ------------------------------------------------------------ |
-| Fri, 6 July          | Dili                             | Workshop on UN  Guidelines on Business and LGBTI.            |
-| Thur, 19 July        | Marie Stopes  International      | Select free service for community members at MSI Clinic.     |
-| **Fri, 20 July**         | [Ministry of Tourism](https://goo.gl/maps/fdCzLTZrEZN2) – [SEJD](https://goo.gl/maps/z9WXGLcm7Rq) | 🌈 Pride parade followed by speeches and live  performances. |
-| Fri, 20 July         | Sky Bar,  Timor Plaza | Pride theme Happy Hour                                       |
-| Fri, 20 July         | Casa Música                      | Official after party; fundraising for CODIVA Clinic.         |
-| Sat, 21 July         | Dili                             | Organised tour for international visitors.                   |
+| Date                               | Location                      | Activity                                                     |
+| ---------------------------------- | ----------------------------- | ------------------------------------------------------------ |
+| Fri, 6 July 9.30–11.30    | UN Compound                   | Workshop on UN Guidelines on LGBTI Inclusion in Business.    |
+| Mon, 16 – Sat, 21 July     | Marie Stopes Timor-Leste      | Select free service for community members at MSTL Clinic.    |
+| Tue, 17 July 18.00          | Cineplex, Timor-Plaza         | Discount on movie tickets.                                   |
+| Wed, 18 July                   | UNTL                          | Panel discussion on LGBTI Inclusion.                         |
+| Thur, 19 July 19.00–22.00 | Timor Plaza Courtyard         | Night market, drag performances and fashion show featuring Rui Carvalho |
+| **Fri, 20 July 16.30–18.30** | from [Jardim Bebora](https://goo.gl/maps/eHfzuy2SBYK2) to [SEJD](https://goo.gl/maps/z9WXGLcm7Rq) | 🌈 Pride parade followed by speeches and live  performances. |
+| Fri, 20 July 19.00–22.00  | Panorama Sky Bar, Timor Plaza | Pride theme happy hour.                                      |
+| Fri, 20 July 23.00          | Casa Música                   | Official after party; fundraising for CODIVA Clinic.         |
+| Sat, 21 July                   | Dili                          | Tour of Dili for international visitors.                     |
 
 # Contact
 
