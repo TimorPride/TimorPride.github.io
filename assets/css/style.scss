@@ -37,6 +37,12 @@ header {
     line-height: 2;
   }
 
+  @media screen and (min-width: 30em) {
+    table th, table td {
+      min-width: 10rem;
+    }
+  }
+
   @media screen and (max-width: 30em) {
     table th, table td {
       padding: 0.25rem 0.5rem;

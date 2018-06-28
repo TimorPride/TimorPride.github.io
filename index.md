@@ -14,17 +14,17 @@ This year the Hatutan youth group, together with Fundasaun CODIVA, Arco Iris and
 
 | Date                               | Location                      | Activity                                                     |
 | ---------------------------------- | ----------------------------- | ------------------------------------------------------------ |
-| Fri, 6 July 9.30–11.30    | UN Compound                   | Workshop on UN Guidelines on LGBTI Inclusion in Business.    |
+| Fri, 6 July<br>9.30–11.30    | UN Compound                   | Workshop on UN Guidelines on LGBTI Inclusion in Business.    |
 | Mon, 16 – Sat, 21 July     | Marie Stopes Timor-Leste      | Select free service for community members at MSTL Clinic.    |
-| Tue, 17 July 18.00          | Cineplex, Timor-Plaza         | Discount on movie tickets.                                   |
+| Tue, 17 July<br>18.00          | Cineplex, Timor-Plaza         | Discount on movie tickets.                                   |
 | Wed, 18 July                   | UNTL                          | Panel discussion on LGBTI Inclusion.                         |
-| Thur, 19 July 19.00–22.00 | Timor Plaza Courtyard         | Night market, drag performances and fashion show featuring Rui Carvalho |
-| **Fri, 20 July 16.30–18.30** | from [Jardim Bebora](https://goo.gl/maps/eHfzuy2SBYK2) to [SEJD](https://goo.gl/maps/z9WXGLcm7Rq) | 🌈 Pride parade followed by speeches and live  performances. |
-| Fri, 20 July 19.00–22.00  | Panorama Sky Bar, Timor Plaza | Pride theme happy hour.                                      |
-| Fri, 20 July 23.00          | Casa Música                   | Official after party; fundraising for CODIVA Clinic.         |
+| Thur, 19 July<br>19.00–22.00 | Timor Plaza Courtyard         | Night market, drag performances and fashion show featuring renowned local designer Rui Carvalho. |
+| **Fri, 20 July<br>16.30–18.30** | from [Jardim Bebora](https://goo.gl/maps/eHfzuy2SBYK2) to [SEJD](https://goo.gl/maps/z9WXGLcm7Rq) | 🌈 Pride parade followed by speeches and live  performances. |
+| Fri, 20 July<br>19.00–22.00  | Panorama Sky Bar, Timor Plaza | 🍸 Pride theme happy hour.                                      |
+| Fri, 20 July<br>23.00          | Casa Música                   | 🎉 Official after party; fundraising for CODIVA Clinic.         |
 | Sat, 21 July                   | Dili                          | Tour of Dili for international visitors.                     |
 
-Wonder how to get here? Where to stay? **Check out the <a href="https://docs.google.com/document/d/1znBZEzgYE2LhLwEoDoEkBuOFbDEd0PPAxa-RlaIzPJU/edit?usp=sharing" target="_blank" rel="noopener">full logistics notes</a>.**
+Wonder how to get here? Where to stay? **Check out the <a href="https://docs.google.com/document/d/1znBZEzgYE2LhLwEoDoEkBuOFbDEd0PPAxa-RlaIzPJU/edit?usp=sharing" target="_blank" rel="noopener">full logistics note</a>.**
 
 # Contact
 
