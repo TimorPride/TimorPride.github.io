@@ -28,19 +28,23 @@ header {
   }
 }
 
-.main-content h1, .main-content h3 {
-  color: #5e2ca5;
-}
-
-.main-content p {
-  line-height: 2;
-}
-
-@media screen and (max-width: 30em) {
-  .main-content table th, .main-content table td {
-    padding: 0.25rem 0.5rem;
-    min-width: 6rem;
+.main-content {
+  h1, h3 {
+    color: #5e2ca5;
   }
+
+  p {
+    line-height: 2;
+  }
+
+  @media screen and (max-width: 30em) {
+    table th, table td {
+      padding: 0.25rem 0.5rem;
+      min-width: 6rem;
+    }
+  }
+
+  padding-bottom: 1rem;
 }
 
 form {
@@ -64,4 +68,8 @@ form {
     padding: 0.6em 0.9em;
     transition: all 0.3s ease-in-out;
   }
+}
+
+.max-width-12 {
+  max-width: 12rem;
 }
