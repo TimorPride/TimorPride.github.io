@@ -11,6 +11,17 @@ body {
   outline: none;
 }
 
+a {
+  text-decoration: none;
+  opacity: 1;
+  transition: color .15s ease-in;
+  &:hover {
+    opacity: .5;
+    text-decoration: none;
+    transition: opacity .15s ease-in;
+  }
+}
+
 header {
   transition: background-color 500ms linear;
 }
