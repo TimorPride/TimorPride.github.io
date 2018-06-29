@@ -1,14 +1,22 @@
 ---
 layout: default
-title: Pride Timor-Leste
+title: Pride Timor&#8209;Leste
 image: /assets/images/pride_logo_no_text.jpg
 ---
 
+<p class="tc black-90 f3 fw4">
+  Celebrate Pride with the youngest and loudest nation in Southeast Asia.
+</p>
+
 # Description
 
-Following the success of “Free to be me”, the first Timorese Pride event in June 2016, the Hatutan youth group, working together with other partners, organised Timor-Leste’s second LGBTI Pride in 2017 on the theme of “acceptance".
+Timor-Leste’s LGBTI community is a powerful force for inclusion and acceptance. In a region growing increasingly hostile to the community, we compel support from all walks of life: the church, civil society, international groups and all the way up to the country’s leaders. Now, we’re inviting you.
 
-This year the Hatutan youth group, together with Fundasaun CODIVA, Arco Iris and other partners, will organise another Pride parade on the theme of **inclusion**, to call for the inclusion of LGBTI people in the development of the country. **Timor-Leste must strive to protect human rights and to promote inclusiveness for all.**
+Following the success of our first-ever Pride event, 2016’s ‘Free to be me’, our acceptance-themed Pride march in 2017 garnered jubilant international attention and a public endorsement from our then-prime minister. This year, youth group Hatutan joins forces with Fundasaun CODIVA, Arco Iris and other partners for a Pride celebration calling for the inclusion of LGBTI people in the country’s development.
+
+<p class="tc black-90 f3 fw4">
+Timor-Leste must strive to protect human rights and to ensure inclusion for all. If you agree, join us this July.
+</p>
 
 # Logistics
 
