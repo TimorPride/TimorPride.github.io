@@ -30,7 +30,7 @@ Timor-Leste must strive to protect human rights and to ensure inclusion for all.
 | **Fri, 20 July<br>16.30–18.30** | from [Jardim Bebora](https://goo.gl/maps/eHfzuy2SBYK2) to [SEJD](https://goo.gl/maps/z9WXGLcm7Rq) | 🌈 Pride parade followed by speeches and live  performances. |
 | Fri, 20 July<br>19.00–22.00  | Panorama Sky Bar, Timor Plaza | 🍸 Pride theme happy hour.                                      |
 | Fri, 20 July<br>23.00          | Casa Música                   | 🎉 Official after party; fundraising for CODIVA Clinic.         |
-| Sat, 21 July                   | Dili                          | Tour of Dili for international visitors.                     |
+| Sat, 21 July                   | Timor-Leste                   | Visit of Dili and its surroundings for international visitors.   |
 
 Wonder how to get here? Where to stay? **Check out the <a href="https://docs.google.com/document/d/1znBZEzgYE2LhLwEoDoEkBuOFbDEd0PPAxa-RlaIzPJU/edit?usp=sharing" target="_blank" rel="noopener">full logistics note</a>.**
 
