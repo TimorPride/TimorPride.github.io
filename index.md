@@ -27,7 +27,7 @@ Timor-Leste must strive to protect human rights and to ensure inclusion for all.
 | Tue, 17 July<br>18.00          | Cineplex, Timor-Plaza         | 🎬 Discount on movie tickets - more information will follow.                                   |
 | Wed, 18 July                   | UNTL                          | 🤝 Panel discussion on LGBTI Inclusion - more information will follow.                         |
 | Thur, 19 July<br>19.00–22.00 | Timor Plaza Courtyard         | 👗 Night market, drag performances and fashion show featuring renowned local designer Rui Carvalho. |
-| **Fri, 20 July<br>16.30–18.30** | from [Jardim Bebora](https://goo.gl/maps/eHfzuy2SBYK2) to [SEJD](https://goo.gl/maps/z9WXGLcm7Rq) | 🌈 Pride march followed by speeches and live  performances. |
+| **Fri, 20 July<br>16.30–18.30** | from [MNEC](https://goo.gl/maps/nEoYGjRURu32) to [SEJD](https://goo.gl/maps/z9WXGLcm7Rq) | 🌈 Pride march followed by speeches and live  performances. |
 | Fri, 20 July<br>19.00–22.00  | Panorama Sky Bar, Timor Plaza | 🍸 Pride theme happy hour.                                      |
 | Fri, 20 July<br>23.00          | Casa Música                   | 🎉 Official after party; fundraising for CODIVA Clinic. Tickets must be purchased beforehand - please contact +67073734118 on WhatsApp to purchase yours.         |
 | Sat, 21 July                   | Timor-Leste                   | 😎 Tour of Dili, Ataúro and Baucau for international visitors. |
