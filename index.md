@@ -24,8 +24,8 @@ Timor-Leste must strive to protect human rights and to ensure inclusion for all.
 | ---------------------------------- | ----------------------------- | ------------------------------------------------------------ |
 | Fri, 6 July<br>9.30–11.30    | UN Compound                   | Workshop on UN Guidelines on LGBTI Inclusion in Business. (Invitation only)    |
 | Mon, 16 – Sat, 21 July     | [Marie Stopes Timor-Leste](https://goo.gl/maps/nUV5g3d6H1L2) | Free sexual health checks. Registration: $3 for Timorese and $20 for international clients. Visit [Marie Stope's website](https://www.mariestopes.tl/) for opening hours. |
-| Tue, 17 July<br>18.00          | Cineplex, Timor-Plaza         | 🎬 Discount on movie tickets - more information will follow.                                   |
-| Wed, 18 July                   | UNTL                          | 🤝 Panel discussion on LGBTI Inclusion - more information will follow.                         |
+| Wed, 18 July<br>15.00          | [UNTL Auditorium](https://goo.gl/maps/KxL2q1h2H8B2)  | 🤝 Workshop on "Leaving No Youth Behind: LGBTI Youth." |
+| Thu, 19 July<br>9.00          | Cineplex, Timor-Plaza         | 🎬 Discount on movie tickets - $1.50/person. |
 | **Fri, 20 July<br>16.30–18.30** | from [MNEC](https://goo.gl/maps/nEoYGjRURu32) to [SEJD](https://goo.gl/maps/z9WXGLcm7Rq) | 🌈 Pride march followed by speeches and live  performances. |
 | Fri, 20 July<br>19.00–22.00  | Panorama Sky Bar, Timor Plaza | 🍸 Pride theme happy hour, fashion show featuring renowned local designer Rui Carvalho.          |
 | Fri, 20 July<br>23.00          | Casa Música                   | 🎉 Official after party; fundraising for CODIVA Clinic. Tickets must be purchased beforehand - please <a href="https://api.whatsapp.com/send?phone=67073825746" target="_blank">contact +67073825746 on WhatsApp</a> to purchase yours.         |
