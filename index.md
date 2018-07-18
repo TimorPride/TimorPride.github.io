@@ -29,7 +29,7 @@ Timor-Leste must strive to protect human rights and to ensure inclusion for all.
 | **Fri, 20 July<br>16.30–18.30** | from [MNEC](https://goo.gl/maps/nEoYGjRURu32) to [SEJD](https://goo.gl/maps/z9WXGLcm7Rq) | 🌈 Pride march followed by speeches and live  performances. |
 | Fri, 20 July<br>19.00–22.00  | Panorama Sky Bar, Timor Plaza | 🍸 Pride theme happy hour, fashion show featuring renowned local designer Rui Carvalho.          |
 | Fri, 20 July<br>23.00          | Casa Música                   | 🎉 Official after party; fundraising for CODIVA Clinic. Tickets must be purchased beforehand - please <a href="https://api.whatsapp.com/send?phone=67073825746" target="_blank">contact +67073825746 on WhatsApp</a> to purchase yours.         |
-| Sat, 21 July                   | Timor-Leste                   | 😎 Tour of Dili, Ataúro and Baucau for international visitors. |
+| Sat, 21 July                   | Timor-Leste                   | 😎 Tour of Dili and Ataúro for international visitors. |
 
 Wonder how to get here? Where to stay? **Check out the <a href="https://docs.google.com/document/d/1znBZEzgYE2LhLwEoDoEkBuOFbDEd0PPAxa-RlaIzPJU/edit?usp=sharing" target="_blank" rel="noopener">full logistics note</a>.**
 
