@@ -10,7 +10,7 @@ image: /assets/images/pride_logo_no_text.jpg
 
 # Description
 
-Timor-Leste’s LGBTI community is a powerful force for inclusion and acceptance. In a region growing increasingly hostile to the community, we compel support from all walks of life: the church, civil society, international groups and all the way up to the country’s leaders. Now, we’re inviting you.
+Timor-Leste’s LGBTI community is a powerful force for inclusion and acceptance. In a region growing increasingly hostile to the community, we compel support from all walks of life: civil society, international groups and all the way up to the country’s leaders. Now, we’re inviting you.
 
 Following the success of our first-ever Pride event, 2016’s ‘Free to be me’, our acceptance-themed Pride march in 2017 garnered [jubilant international attention](https://www.reuters.com/article/us-timor-rights-lgbt-idUSKBN1A5005) and a [public endorsement from our then-Prime Minister](http://timor-leste.gov.tl/?p=18362&lang=en&n=1). This year, youth group Hatutan joins forces with Fundasaun CODIVA, Arco Iris and other partners for a Pride celebration calling for the inclusion of LGBTI people in the country’s development.
 
