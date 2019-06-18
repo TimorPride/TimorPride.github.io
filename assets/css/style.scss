@@ -91,6 +91,15 @@ form {
   }
 }
 
+
+.main-content footer {
+  .logos-container {
+    max-width: 31rem;
+    img {
+      max-width: 10rem;
+    }
+  }
+}
 .max-width-10 {
   max-width: 10rem;
 }
