@@ -24,15 +24,17 @@ If you agree, join us this July.
 
 # Logistics
 
-| Date                               | Location                 | Activity                                                     |
-| ---------------------------------- | ------------------------ | ------------------------------------------------------------ |
-| **Sun, 19 May**                    | Quintal Bo’ot            | “Painting Dili with Diversity” event to commemorate IDAHOBIT. |
-| **Wed, 26 June**                   | UN Compound, Caicoli     | Workshop on UN Guidelines LGBTI Inclusion in Business. (Invitation only) |
-| **TBC**                            | TBC                      | Rainbow-themed Movie Marathon.                               |
-| **TBC**                            | [Marie Stopes Timor-Leste](https://goo.gl/maps/aAQmJaVbGmPyei8x9) | Free sexual health checks. [Visit Marie Stopes’ website for opening hours.](https://www.facebook.com/MarieStopesTL/) |
-| **Fri, 12 July**<br>16.30 - 20.00  | TBC                      | Pride march followed by live performances.                   |
-| **Fri, 12 July** <br>23.00 - 04.00 | TBC                      | Official after-party; fundraising for CODIVA Transgender Clinic. Tickets must be purchased beforehand - please contact +67073825746 on WhatsApp to purchase yours. |
-| **Sat, 13 July**                   | Dili                     | Organized tour for international visitors.                   |
+| Date                            | Location                                                     | Activity                                                     |
+| ------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Sun, 19 May** <br>13.00-20.00   | Quintal Bo’ot                                                | “Painting Dili with Diversity” event to commemorate IDAHOBIT. |
+| **Wed, 26 June** <br>14.30-17.00  | UN Compound, Caicoli                                         | Workshop on UN Guidelines LGBTI Inclusion in Business. (Invitation only) |
+| **Wed, 10 July**<br>19.00-21.00   | Beach Side Hotel                                             | Rainbow-themed movie ("The Adventures of Priscilla, Queen of the Desert"); dinner optional. |
+| **Wed, 10 July - Tue, 16 July** | [Marie Stopes Timor-Leste](https://goo.gl/maps/aAQmJaVbGmPyei8x9) | Free sexual health checks. [Visit Marie Stopes’ website for opening hours.](https://www.facebook.com/MarieStopesTL/) |
+| **Fri, 12 July** <br>16.30-20.00  | from MNEC to SEJD                                            | Pride march followed by live performances.                   |
+| **Fri, 12 July**  <br>23.00-04.00 | El Legendario                                                | Official  after-party; fundraising for CODIVA Transgender Clinic. Tickets must be  purchased beforehand - please contact +67073825746 on WhatsApp to  purchase yours. |
+| **Sat, 13 July**                | Dili                                                         | Organized tour for international visitors (check logistics note for more information). |
+
+
 
 Wonder how to get here? Where to stay? **Check out the <a href="https://docs.google.com/document/d/1znBZEzgYE2LhLwEoDoEkBuOFbDEd0PPAxa-RlaIzPJU/edit?usp=sharing" target="_blank" rel="noopener">full logistics note</a>.**
 
